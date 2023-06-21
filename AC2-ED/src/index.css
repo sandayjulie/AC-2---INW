@@ -1,0 +1,228 @@
+.cor {
+  background: #390000;
+}
+
+
+.link {
+  color:#ffffff;
+  font-size: large;
+  font-size: 20px;
+}
+
+.link :hover {
+  color: #545454;
+  text-decoration: underline;
+  font-size: larger;
+  font-size: 20px;
+}
+
+body {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background: #545454;
+}
+
+p {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  color:#0a0c35;
+  font-weight: bold;
+}
+
+.colores 
+{
+  display: flex;
+  justify-content: center;
+  font-size: 60px;
+  color:#390000;
+  font-weight: bold;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  color:white;
+  font-weight: bold;
+}
+
+.color {
+  display: flex;
+  justify-content: center;
+  font-size: 80px;
+  color:#390000;
+  font-weight: bold;
+}
+
+.cororo {
+  font-weight: bold;
+  color: #390000;
+  font-size: 40px;
+}
+
+.cheec {
+  justify-content: center;
+}
+
+/*
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #AE69DD
+}
+*/
+
+.bott {
+  background-color: #390000; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  transition-duration: 0.4s;
+}
+
+.bott:hover {
+  background-color: white;
+  color: #390000;
+  border: 1px solid #390000; 
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.butt {
+  background-color: #545454; 
+  border: none;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  transition-duration: 0.4s;
+}
+
+.butt:hover {
+  background-color: white;
+  color: #545454;
+  border: 1px solid #545454; 
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.titc{
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.prec{
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.textbox {
+  border-radius: 4px;
+  width: 100%;
+  font-size: 27px;
+  padding: 12px;
+}
+
+.textbox:focus {
+  border: 2px solid darkslateblue;
+}
+
+/*body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+*/
+
+.page-footer {
+  background-color: #390000;
+  color: white;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.link2 {
+  color: white;
+  font-size: large;
+}
+
+.link2:hover {
+  color: #545454;
+  font-size: large;
+}
+
+.box {
+  width: 100%;
+  font-size: 20px;
+}
+
+.box2 {
+  width: 100%;
+  height: 90px;
+  font-size: 20px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.lala {
+  font-weight: bold;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: x-large;
+  color: black;
+}
+
+.titcard {
+  font-size: 40px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: bold;
+  color:#7c1919;
+}
